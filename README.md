@@ -33,9 +33,6 @@ I love data! Whether I'm lifting weights or playing a game, I enjoy harnessing d
 ### Completed Projects
   - [Bank Customer Churning Analysis](https://github.com/atooln/Bank-Churning) : Analysis on the demographic of bank customers who are more likely to churn 
   - [Cat and Dog Classifier](https://github.com/atooln/Cat_n_Dog_Classifier) : Basic hand-built CNN classifier that classifies whether an image is a dog or a cat
-  - [Housing Analysis](https://github.com/atooln/Housing-Analysis) : Uses linear regression to analyze housing trends
-  - [Exam Score Analysis](https://github.com/atooln/Exam-Score-Analysis) : Used Logistic regression to predict final exam results based on two midterm scores
- 
 
 <br/>  
 
