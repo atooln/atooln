@@ -1,4 +1,4 @@
-## Hey, I'm Atul Nair!  
+## Hey, I'm Atul!  
   
 
 <a href="https://github.com/atooln" target="_blank">
