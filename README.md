@@ -15,7 +15,7 @@
 
 
 ### I'm a developer and 3rd year Data Science Student at UC San Diego  
-I love data! Whether I'm Powerlifting or playing a game, I enjoy harnessing data to optimize my results.   
+I love data! Whether I'm lifting weights or playing a game, I enjoy harnessing data to optimize my results.   
   
 
 <br/>  
