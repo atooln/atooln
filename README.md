@@ -16,7 +16,7 @@
 -->
 
 
-### I'm a developer and 3rd year Data Science Student at UC San Diego  
+### I'm a developer and 3rd year Mathematics and Computer Science Student at UC San Diego  
 Whether I'm lifting weights or playing a game, I enjoy harnessing data to optimize my results.   
   
 
