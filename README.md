@@ -29,7 +29,6 @@ Whether I'm lifting weights or playing a game, I enjoy harnessing data to optimi
 
 
 ### ⚠️ Projects (Work in Progress) ⚠️
-  - [Discord Wrapped](https://github.com/binoy-d/scum-wrapped) : A joint project between [Daniel Binoy](https://github.com/binoy-d) and Shuarya Narang to create our rendition of what a "Spotify Wrapped" for Discord should look like
   - [VGG Cat/Dog Classifier](https://github.com/atooln/VGG-Cat-Dog-Classifier) : A Dog and Cat classifier which uses transfer learning and VGG Deep learning model
 
 ### Completed Projects
