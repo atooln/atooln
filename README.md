@@ -25,9 +25,6 @@ Whether I'm lifting weights or playing a game, I enjoy harnessing data to optimi
 
 ## What I'm doing: 
 
-[San Diego Super Computer Center](https://www.sdsc.edu/) : Currently working with SDSC’s lead for data analytics, Mai Nguyen, to scale ML/DL code to run on High-Performance Computational (HPC) Systems 
-
-
 ### ⚠️ Projects (Work in Progress) ⚠️
   - [VGG Cat/Dog Classifier](https://github.com/atooln/VGG-Cat-Dog-Classifier) : A Dog and Cat classifier which uses transfer learning and VGG Deep learning model
 
