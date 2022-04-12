@@ -17,7 +17,14 @@
 
 
 ### I'm a developer and 3rd year Mathematics and Computer Science Student at UC San Diego  
-Whether I'm lifting weights or playing a game, I enjoy harnessing data to optimize my results.   
+I am passionate about machine learning and software development. I enjoy making cool systems work :)
+
+As an ML Intern at the SDSC, I was able to classify cardiac left ventricle imaging using a U Net model with TensorFlow on a multi-GPU high-performance cluster.
+
+Recently, I have been working as an ML Engineer at the Triton Neurotech Drone Project to make drones fly by classifying Electromyography (EMG) signals with XGBoost and other tree-based models
+
+When I am not cleaning data or debugging overfitting issues, I love to Power-lift and play the occasional game of chess :)
+
   
 
 <br/>  
