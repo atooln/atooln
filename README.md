@@ -19,11 +19,11 @@
 ### I'm a developer and 3rd year Mathematics and Computer Science Student at UC San Diego  
 I am passionate about machine learning and software development. I enjoy making cool systems work :)
 
-As an ML Intern at the SDSC, I was able to classify cardiac left ventricle imaging using a U Net model with TensorFlow on a multi-GPU high-performance cluster.
+As an ML Intern at the SDSC, I developed and scaled a U-Net based Deep Learning Cardiac Left- Ventricle Classifier using TensorFlow with a 95% prediction accuracy on a HPC Multi-GPU system. I additionally developed and scaled a VGG-16 based Deep Learning ImageNet Classifier using PyTorch and PyLightning with a 97% prediction accuracy, as well as a MobileNet based Deep Learning ImageNet Classifier using PyTorch and PyLightning with a 98% prediction accuracy.
 
 Recently, I have been working as an ML Engineer at the Triton Neurotech Drone Project to make drones fly by classifying Electromyography (EMG) signals with XGBoost and other tree-based models
 
-When I am not cleaning data or debugging overfitting issues, I love to Power-lift and play the occasional game of chess :)
+When I am not cleaning data or debugging overfitting issues, I love to Power-Lift and play the occasional game of chess :)
 
   
 
