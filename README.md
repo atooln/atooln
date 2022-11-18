@@ -16,7 +16,7 @@
 -->
 
 
-### I'm a developer and 3rd year Mathematics and Computer Science Student at UC San Diego  
+### I'm a developer and 4th year Mathematics and Computer Science Student at UC San Diego  
 I am passionate about machine learning and software development. I enjoy making cool systems work :)
 
 As an ML Intern at the SDSC, I developed and scaled a U-Net based Deep Learning Cardiac Left- Ventricle Classifier using TensorFlow with a 95% prediction accuracy on a HPC Multi-GPU system. I additionally developed and scaled a VGG-16 based Deep Learning ImageNet Classifier using PyTorch and PyLightning with a 97% prediction accuracy, as well as a MobileNet based Deep Learning ImageNet Classifier using PyTorch and PyLightning with a 98% prediction accuracy.
@@ -29,7 +29,7 @@ When I am not cleaning data or debugging overfitting issues, I love to Power-Lif
 
 <br/>  
 
-
+<!-- 
 ## What I'm doing: 
 
 ### ⚠️ Projects (Work in Progress) ⚠️
@@ -39,7 +39,7 @@ When I am not cleaning data or debugging overfitting issues, I love to Power-Lif
   - [Bank Customer Churning Analysis](https://github.com/atooln/Bank-Churning) : Analysis on the demographic of bank customers who are more likely to churn 
   - [Cat and Dog Classifier](https://github.com/atooln/Cat_n_Dog_Classifier) : Basic hand-built CNN classifier that classifies whether an image is a dog or a cat
 
-<br/>  
+<br/>   -->
 
 
 ## Languages and Tools  
