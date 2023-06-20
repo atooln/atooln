@@ -17,14 +17,13 @@
 
 
 ### I'm a developer and 4th year Mathematics and Computer Science Student at UC San Diego  
-I am passionate about machine learning and software development. I enjoy making cool systems work :)
+Hey there!
 
-As an ML Intern at the SDSC, I developed and scaled a U-Net based Deep Learning Cardiac Left- Ventricle Classifier using TensorFlow with a 95% prediction accuracy on a HPC Multi-GPU system. I additionally developed and scaled a VGG-16 based Deep Learning ImageNet Classifier using PyTorch and PyLightning with a 97% prediction accuracy, as well as a MobileNet based Deep Learning ImageNet Classifier using PyTorch and PyLightning with a 98% prediction accuracy.
+I am Atul Nair, a Mathematics and Computer Science senior at the University of California, San Diego. I am passionate about solving interesting problems with data-driven solutions. 
 
-Recently, I have been working as an ML Engineer at the Triton Neurotech Drone Project to make drones fly by classifying Electromyography (EMG) signals with XGBoost and other tree-based models
+I recently wrote a paper with some of my colleagues on  Electromyography (EMG) Signal Classification using data science machine learning. Check out our paper here (https://arxiv.org/abs/2206.14947)
 
-When I am not cleaning data or debugging overfitting issues, I love to Power-Lift and play the occasional game of chess :)
-
+When I am not cleaning data or resolving overfitting issues, I enjoy lifting, BJJ, and the occasional game of chess :)
   
 
 <br/>  
@@ -42,33 +41,13 @@ When I am not cleaning data or debugging overfitting issues, I love to Power-Lif
 <br/>   -->
 
 
-## Languages and Tools  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="25" />   
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/influxdb.svg" alt="InfluxDB" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="25" />  
-</div>  
+
+
 
 <br/>  
 
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=atooln&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atooln&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
 
 <br/>  
 
