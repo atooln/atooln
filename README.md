@@ -16,7 +16,7 @@
 -->
 
 
-### I'm a developer and 4th year Mathematics and Computer Science Student at UC San Diego  
+### I'm Mathematics and Computer Science Graduate from UC San Diego  
 Hey there!
 
 I am Atul Nair, a Mathematics and Computer Science senior at the University of California, San Diego. I am passionate about solving interesting problems with data-driven solutions. 
