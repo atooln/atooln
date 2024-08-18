@@ -19,7 +19,7 @@
 ### I'm Mathematics and Computer Science Graduate from UC San Diego  
 Hey there!
 
-I am Atul Nair, a Mathematics and Computer Science senior at the University of California, San Diego. I am passionate about solving interesting problems with data-driven solutions. 
+I am Atul Nair, a Mathematics and Computer Science graduate from UC San Diego. I am passionate about solving interesting problems with data-driven solutions. 
 
 I recently wrote a paper with some of my colleagues on  Electromyography (EMG) Signal Classification using data science machine learning. Check out our paper here (https://arxiv.org/abs/2206.14947)
 
