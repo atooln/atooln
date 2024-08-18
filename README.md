@@ -15,6 +15,7 @@
   
 -->
 
+
 Hey there!
 
 I am Atul Nair, a Mathematics and Computer Science graduate from UC San Diego. I am passionate about solving interesting problems with data-driven solutions. 
