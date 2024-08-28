@@ -1,4 +1,4 @@
-[!LinkedIn](https://www.linkedin.com/in/atool-nair/) | [!Twitter](https://x.com/_notatool)
+[LinkedIn](https://www.linkedin.com/in/atool-nair/) | [Twitter](https://x.com/_notatool)
 
 
 🌱 wannabe mathematician | prev: @UCSanDiego  
