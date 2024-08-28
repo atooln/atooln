@@ -2,4 +2,4 @@
 
 
 🌱 wannabe mathematician | prev: @UCSanDiego  
-🌱 current interests: differential equations| c/c++ | ml | computational neuroscience
+🌱 current interests: differential equations | c/c++/python | ml | computational neuroscience
